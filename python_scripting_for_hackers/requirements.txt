@@ -1,0 +1,6 @@
+certifi==2020.4.5.1
+pip==20.0.2
+python-nmap==0.6.1
+setuptools==46.4.0.post20200518
+wheel==0.34.2
+wincertstore==0.2
